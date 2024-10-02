@@ -1,0 +1,6 @@
+Host : 140.82.112.3 (github.com)
+State : up
+Protocol : tcp
+Port : 22	State : open
+Port : 80	State : open
+Port : 443	State : open
